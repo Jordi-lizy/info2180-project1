@@ -1,3 +1,3 @@
 # info2180-project1
 
-This is Project 1 for <Your Jordan Wilson>
+This is Project 1 for Jordan Wilson
