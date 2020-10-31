@@ -8,4 +8,50 @@ body {
     margin: 0 auto;
     max-width: 960px;
     width: 100%;
+    
 }
+
+h1{
+    text-align: left ;
+    margin: 40px 0px 0px 40px;
+    font-size: 20px;
+    float: left;
+
+}
+
+ul{
+    text-align: right ;
+
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0px 20px 0px 0px;
+}
+
+h1 ul{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.overview-hero-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 1px;
+    float: left;
+}
+
+.card img{
+    width: 300px;
+    height: 400px;
+}
+
+.stories img{
+    width: 150px;
+    height: 150px;
+    border-radius: 55%;
+}
+
+
